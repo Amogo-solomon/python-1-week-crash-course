@@ -15,7 +15,7 @@ This repository contains my hands-on practice, exercises, and mini-projects.
 
 **Programs written:**
 - `hello.py` – First Python program
-- Simple calculator (basic operations)
+- `calculator.py` - Simple calculator (basic operations)
 
 ---
 
@@ -30,6 +30,8 @@ This repository contains my hands-on practice, exercises, and mini-projects.
 **Programs written:**
 - `even_odd.py` – Even or odd number checker
 - `age_checker.py` – Age category classifier (Child, Teen, Adult, Senior)
+- `grade_calculator.py` - built grade calculator 
+- `login_system` - loginn system
 
 **Key lessons:**
 - Python checks conditions top to bottom
