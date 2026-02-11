@@ -89,6 +89,25 @@ This repository contains my hands-on practice, exercises, and mini-projects.
 - Sets automatically remove duplicates
 - Dictionaries are powerful for structured data
 
+---
+
+## 📅 Day 5 — Functions
+**Topics learned:**
+- Defining and calling functions
+- Parameters and return values
+- Default arguments
+- Variable scope (local vs global)
+- Writing reusable code
+
+**Programs written:**
+- `basic_function.py`
+- `greet_user.py`
+- `calculator_functions.py`
+- `default_arguments.py`
+- `scope_example.py`
+- `utility_app.py`
+
+
 
 
 ## 🛠 Tools Used
