@@ -30,8 +30,9 @@ This repository contains my hands-on practice, exercises, and mini-projects.
 **Programs written:**
 - `even_odd.py` – Even or odd number checker
 - `age_checker.py` – Age category classifier (Child, Teen, Adult, Senior)
-- `grade_calculator.py` - built grade calculator 
-- `login_system` - loginn system
+- `grade_calculator.py` – Grade calculator
+- `login_system.py` – Simple login authentication system
+
 
 **Key lessons:**
 - Python checks conditions top to bottom
@@ -39,6 +40,31 @@ This repository contains my hands-on practice, exercises, and mini-projects.
 - Indentation is critical in Python
 
 ---
+
+---
+
+## 📅 Day 3 — Loops & Iteration
+**Topics learned:**
+- `for` loops
+- `while` loops
+- `range()`
+- `break` and `continue`
+- Loop-based problem solving
+
+**Programs written:**
+- `print_numbers.py` – Printed numbers 1 to 10
+- `multiplication_table.py` – Generated multiplication table
+- `sum_of_numbers.py` – Calculated sum from 1 to 100
+- `while_loop_example.py` – Basic while loop counter
+- `guessing_game.py` – Number guessing mini game
+- `skip_even_numbers.py` – Skipped even numbers using continue
+
+**Key lessons:**
+- Loops reduce repetition
+- `break` stops a loop
+- `continue` skips current iteration
+- Infinite loops must be controlled carefully
+
 
 ## 🛠 Tools Used
 - Python 3.14
