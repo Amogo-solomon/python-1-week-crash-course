@@ -65,6 +65,31 @@ This repository contains my hands-on practice, exercises, and mini-projects.
 - `continue` skips current iteration
 - Infinite loops must be controlled carefully
 
+---
+
+## 📅 Day 4 — Data Structures
+**Topics learned:**
+- Lists (indexing, append, remove)
+- Tuples (immutable sequences)
+- Sets (unique values)
+- Dictionaries (key-value pairs)
+- Choosing the right data structure
+
+**Programs written:**
+- `lists_basics.py` – Practiced list operations
+- `tuples_example.py` – Worked with immutable data
+- `sets_example.py` – Removed duplicates using sets
+- `dictionary_example.py` – Accessed and modified dictionary values
+- `student_marks.py` – Calculated total and average marks
+- `word_counter.py` – Counted word frequency using dictionary
+
+**Key lessons:**
+- Lists are ordered and changeable
+- Tuples are fixed and safer for constant data
+- Sets automatically remove duplicates
+- Dictionaries are powerful for structured data
+
+
 
 ## 🛠 Tools Used
 - Python 3.14
