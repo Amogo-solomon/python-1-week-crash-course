@@ -8,6 +8,3 @@ print("Updated list:", fruits)
 fruits.remove("banana")
 print("after removal:", fruits)
 
-#notic 
-# tuples. cannot change
-# used for fixed data
