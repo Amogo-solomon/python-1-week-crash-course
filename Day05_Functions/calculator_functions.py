@@ -1,4 +1,6 @@
 # return values
+#retun sends data back
+# Functions should return values, not just print
 
 def add(a, b):
     return a + b
